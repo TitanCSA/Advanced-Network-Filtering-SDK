@@ -4,7 +4,7 @@ WFP IPv4/IPv6 connection filtering with application-path, protocol, CIDR and por
 
 **Microsoft-signed Windows x64 evaluation driver. One-hour demo per Windows kernel boot.**
 
-[Download the Windows bundle](https://github.com/TitanCSA/Advanced-Network-Filtering-SDK/releases/latest) ? [API guide](docs/API.md) ? [Scope and limits](docs/LIMITS.md) ? [Validation](docs/VALIDATION.json)
+[Download the Windows bundle](https://github.com/TitanCSA/Advanced-Network-Filtering-SDK/releases/tag/v0.1.0) | [API guide](docs/API.md) | [Scope and limits](docs/LIMITS.md) | [Validation](docs/VALIDATION.json)
 
 ## Install
 
