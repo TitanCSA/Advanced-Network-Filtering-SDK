@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "architecture": "x64",
+  "microsoft_catalog_verified": true,
+  "submitted_INF_unchanged": true,
+  "submitted_executable_sections_unchanged": true,
+  "signed_installation": "passed_SecureBoot_on_testsigning_off_Windows11_26100",
+  "signed_runtime": "passed_scoped_tests",
+  "real_3600_second_expiry": "pending_for_this_product",
+  "pre_sign_accelerated_expiry": "passed_30_seconds",
+  "native_ASAN_tests": "passed",
+  "whql_certified": false,
+  "limitations": "This is a scoped WFP component, not a complete VPN. Application paths are not cryptographic identities. Missing metadata can prevent application-specific matching. Rules are inactive until a client starts them, and expiry releases filtering policy."
+}

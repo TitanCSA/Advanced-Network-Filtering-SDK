@@ -1,0 +1,1 @@
+The repository contains user-mode SDK, app, installer and test source. Kernel/clock sources and private signing material are excluded. Download the signed opaque driver bundle from Releases to build self-contained installers. Kernel PDBs, laboratory certificates and local operation scripts are not distributed.

@@ -1,0 +1,21 @@
+/obj/
+/bin/
+/Package/
+/Submission/
+*.pfx
+*.key
+*.dmp
+
+# Kernel sources and signing payloads remain private, like existing products.
+/Driver/
+/TrialClock/
+/artifacts/
+/FileProvider/Driver/
+/FileProvider/TrialClock/
+**/bin/
+**/obj/
+*.cer
+*.p7b
+
+/Build.ps1
+/Prepare-EDR-Cab.ps1
